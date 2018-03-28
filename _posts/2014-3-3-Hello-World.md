@@ -1,10 +1,34 @@
 ---
 layout: post
-title: You're up and running!
+title: What can you do in theSTEAMtruck?
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+ #### The STEAM projects are diverse and cover many disciplines.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Equipment available in theSTEMtruck:
+* Seating and workbench tables for up to 15 attendees and 2 presenter/instructors
+* Variety of hand tools located at each bench
+* 5 Temperature controlled  Soldering stations
+* 5 Digital Multi-meters
+* Powered electronic breadboard
+* 10 Heated Glue guns
+* 2 PLA / ABS 3D Printers
+* Mini tool drill press
+* Shureline mini Lathe and Milling machine
+* Dual trace Oscilloscope
+* Hand wood and metal saws
+* Brother Electric Sewing Machine
+* 10 HDMI Video monitors (1 per bench)
+* 10 Arduino Nano development boards
+* 10 Raspberry Pi development boards
+* 5 Dell Windows Laptop PC's
+* 1 Headset Magnifier
+* 1000 Watt - Off-Grid battery inverter 
+* Multiple USB charge sockets
+* Drawbot – Marginally Clever drawbot
+* Lots and Lots of Drawing, Art, Paper and Craft supplies.
+* Inkjet PC printer
+* Interior LED lighting
+* Air Conditioner, Space heaters and shade tarp for climate control 
+* Refrigerator, for refreshments and snacks.
+* Coffee brewer.
