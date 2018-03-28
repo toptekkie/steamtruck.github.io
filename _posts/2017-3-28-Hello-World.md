@@ -3,7 +3,7 @@ layout: post
 title: What can you do in theSTEAMtruck?
 ---
 
- #### The STEAM projects are diverse and cover many disciplines.
+#### The STEAM projects are diverse and cover many disciplines.
 
 Equipment available in theSTEMtruck:
 * Seating and workbench tables for up to 15 attendees and 2 presenter/instructors
