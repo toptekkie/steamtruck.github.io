@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What can you do in theSTEAMtruck?
+excerpt_separator: <!--more-->
 ---
 
 #### The STEAM projects are diverse and cover many disciplines.
@@ -12,6 +13,7 @@ Equipment available in the STEAM truck:
 * 5 Digital Multi-meters
 * Powered electronic breadboard
 * 10 Heated Glue guns
+<!--more-->
 * 2 PLA / ABS 3D Printers
 * Mini tool drill press
 * Shureline mini Lathe and Milling machine
