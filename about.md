@@ -14,7 +14,7 @@ The STEAM truck as it will now be known is available for any educational hands-o
 By changing our name we are now also uniquely identified 
 
 Yes the truck also facilitates Up-cycling, Fix-it and above all FUN events where we challenge participants to come up with wrong and out-of-the-box ideas.
-If you are interested in having the truck and its facilities at your disposal be sure to contact us by email to : [theSTEMtruck@gmail.com](mailto:theSTEMtruck@gmail.com)
+If you are interested in having the truck and its facilities at your disposal be sure to contact us by email to : [theSTEAMtruck@gmail.com](mailto:theSTEAMtruck@gmail.com)
 
 We also have plans to simply deliver and return the vehicle to your location for you as a teacher, tutor or instructor to run a program. 
 (Training accreditation may be required)
