@@ -11,5 +11,3 @@ Several youth dropped by to check out the facilities in the truck.
 Three Blinky pins arrived in the mail and were assembled by some budding youth who learned the basics and challenges of small outline surface mount manual soldering.
 
 ![_config.yml]({{ site.baseurl }}/images/blinkbadge.png)
-
-# ! https://github.com/steamtruck/steamtruck.github.io/blob/master/images/blinkybadge.png
