@@ -10,4 +10,4 @@ On Saturday March 17th the truck facilitated the WCD event at SVYCC.
 Several youth dropped by to check out the facilities in the truck.
 Three Blinky pins arrived in the mail and were assembled by some budding youth who learned the basics and challenges of small outline surface mount manual soldering.
 
-! https://github.com/steamtruck/steamtruck.github.io/blob/master/images/blinky_badge.png
+! https://github.com/steamtruck/steamtruck.github.io/blob/master/images/blinkybadge.png
