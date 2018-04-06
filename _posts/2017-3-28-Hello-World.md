@@ -10,7 +10,7 @@ Equipment available in the STEAM truck:
 * Seating and workbench tables for up to 15 attendees and 2 presenter/instructors
 * Variety of hand tools located at each bench
 * 5 Temperature controlled  Soldering stations
-* 5 Digital Multi-meters
+* 3 Digital Multi-meters
 * Powered electronic breadboard
 * 10 Heated Glue guns
 <!--more-->
