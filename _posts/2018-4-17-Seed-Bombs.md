@@ -14,7 +14,7 @@ The "bomb" consists of generally 3 components.
 * 1 Clay or other moisture absorbing material
 * 2 Compost or potting soil suitable for germination of seeds
 * 3 Flower, grass, vegetable seeds
-
+<!--more-->
 #### Method:
 Mix these in a variety of recipes with water to produce a 'bomb' that holds itself together.
 
