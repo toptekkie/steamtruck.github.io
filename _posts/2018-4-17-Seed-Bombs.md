@@ -1,5 +1,3 @@
-
-
 ---
 layout: post
 title: To Bomb or not to Bomb
