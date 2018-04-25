@@ -3,8 +3,8 @@
 ---
 layout: post
 title: To Bomb or not to Bomb
-youtubeId: KXEiZMq1z4Q
 excerpt_separator: <!--more-->
+youtubeId: KXEiZMq1z4Q
 ---
 
 #### TheSTEAMTruck is participating in Earth Day 22nd April by building Bombs
