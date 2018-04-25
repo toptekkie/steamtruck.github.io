@@ -41,3 +41,6 @@ However the insertion of wild plant growth into the landscape will not only enha
 
 So come Earth Day and the wonderful Spring weather theSTEAMtruck will be making bombs of the seedling type and encouraging their distribution throught the neighbourhoods.
 
+#### ... and here is a video of how we do it!
+
+{% include youtubePlayer.html id=page.youtubeId %}
