@@ -1,4 +1,8 @@
 ---
+youtubeId: https://youtu.be/KXEiZMq1z4Q
+---
+
+---
 layout: post
 title: To Bomb or not to Bomb
 excerpt_separator: <!--more-->
