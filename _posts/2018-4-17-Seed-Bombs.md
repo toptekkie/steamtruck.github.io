@@ -1,10 +1,9 @@
----
-youtubeId: KXEiZMq1z4Q
----
+
 
 ---
 layout: post
 title: To Bomb or not to Bomb
+youtubeId: KXEiZMq1z4Q
 excerpt_separator: <!--more-->
 ---
 
