@@ -14,7 +14,7 @@ The optimum design tested with a plastic cup (without liquid!!) was a folded tri
 The runner up was a rolled tube of paper.
 
 Using the 3D printers in theSTEAMtruck we produced several of the assistive devices as promoted by Neil Squire Society
-At this event we identified the need of those with disablitities and gave attendees the opportunity to try out some of the devices.
+At this event we identified the need of those with disabilities and gave attendees the opportunity to try out some of the devices.
 
 ![_config.yml]({{ site.baseurl }}/images/ns_3d_print.jpg)
 
