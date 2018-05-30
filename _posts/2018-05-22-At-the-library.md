@@ -20,7 +20,7 @@ At this event we identified the need of those with disablitities and gave attend
 
 #### Flooding Alert in Salmo
 
-Due to the welcome but early warm weather following the massive winter snowfall the veillage of Salmo went onto Flood Alert 
+Due to the welcome but early warm weather following the massive winter snowfall the village of Salmo went onto Flood Alert 
 with 100's of sandbags deployed in the event the already full Salmo River breached its banks.
 Glad to report the peak was slightly below the level at which major damage occurred.
 
