@@ -22,7 +22,7 @@ Rain storm started at closing time (11:30pm). Cycled back to Ross Spur in the da
 
 ![_config.yml]({{ site.baseurl }}/images/ledholder.jpg)
 
-<!--more-->
+!--more--
 
 #### Saturday
 Great day with lots of folks learning a)About S.T.E.A.M. and b)About Maker Spaces ans the facilities in theSTEAMtruck.
