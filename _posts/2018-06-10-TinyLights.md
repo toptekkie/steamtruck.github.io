@@ -33,7 +33,7 @@ Decided to deploy a hammock and sleep in the truck due to consistent rain at the
 Facilitated many young kids who played with the Squishy Circuits and built 'robots' from the bits and pieces bin.
 Played with several block puzzles and printed parts for a rubber band powered car.
 
-![_config.yml]({{ site.baseurl }}/images/puzzles-ymir.jpg)
+![_config.yml]({{ site.baseurl }}/images/puzzlesymir.jpg)
 
 Many more wonderful contacts made and future bookings in line for theSTEAMtruck.
 Great amazing musicians and performers providied the backdrop for this wonderful festival.
