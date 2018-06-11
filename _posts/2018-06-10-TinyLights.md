@@ -12,8 +12,6 @@ theSTEAMtruck lit up the entrance to the Tiny Lights Festival Vendors area for t
 Sadly the weather provided rain for most of the event but being inside the truck enabled us to keep going non-stop till 11:30pm on Friday, 
 8:00am Sat. till 2:30am (Sun) and again 8:00am till 6:00pm Sunday
 
-![_config.yml]({{ site.baseurl }}/images/tinylights.jpg)
-
 #### Friday
 Setup the truck and started 3D printing a new designed 2320 battery, LED and card holder with badge pin. 
 The card holder was included to allow a cutout to be made to light-up from behind. 
