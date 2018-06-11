@@ -16,8 +16,8 @@ Sadly the weather provided rain for most of the event but being inside the truck
 
 #### Friday
 Setup the truck and started 3D printing a new designed 2320 battery, LED and card holder with badge pin. 
-The card holder was included to allow a cutout to made to light-up from behind. 
-Future use could be for table/exhibit applications. Typically take just under 15min to print.
+The card holder was included to allow a cutout to be made to light-up from behind. 
+Future use could be for table/exhibit applications. Typically takes just under 15min to print.
 Rain storm started at closing time (11:30pm). Cycled back to Ross Spur in the dark and rain - arrived soaked!!
 
 ![_config.yml]({{ site.baseurl }}/images/ledholder.jpg)
@@ -25,15 +25,15 @@ Rain storm started at closing time (11:30pm). Cycled back to Ross Spur in the da
 !--more--
 
 #### Saturday
-Great day with lots of folks learning a)About S.T.E.A.M. and b)About Maker Spaces ans the facilities in theSTEAMtruck.
+Great day with lots of folks learning a)About S.T.E.A.M. and b)About Maker Spaces and the facilities in theSTEAMtruck.
 Kept the printers busy most of the day creating several 3D devices designed by Makers Making Change for disabled folks.
-Distributed several TinyLight modules for night time way finding as no area lighting existed in and around the Vendor Gate and Camping field.
+Distributed several TinyLight modules for night time way-finding as no area lighting existed in and around the Vendor Gate and Camping field.
 On demand, designed and built a curtian wire rail end clamp for local campers in a campervan. 
 Decided to deploy a hammock and sleep in the truck due to consistent rain at the 2:30am Sunday closing time.
 
 #### Sunday
 Facilitated many young kids who played with the Squishy Circuits and built 'robots' from the bits and pieces bin.
-Played with several block puzzles and printed parts for rubber band powered car.
+Played with several block puzzles and printed parts for a rubber band powered car.
 
 ![_config.yml]({{ site.baseurl }}/images/puzzles-ymir.jpg)
 
