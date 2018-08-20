@@ -4,7 +4,7 @@ title: Scridgets NiteLite Workshop at SVYCC
 excerpt_separator: <!--more-->
 ---
 
-![_config.yml]({{ site.baseurl }}/images/NiteLite.jpg)
+![_config.yml]({{ site.baseurl }}/images/nitelite-parts.jpg)
 
 #### theSTEAMtruck Teamed up with SVYCC to run workshops this Summer
 
@@ -30,6 +30,6 @@ Finally the LED strip, laser-cut panels, screws and stand-offs were carefully as
 
 Hey! Presto - First time powered up and it worked perfectly.
 
-
+![_config.yml]({{ site.baseurl }}/images/NiteLite.jpg)
 
 
