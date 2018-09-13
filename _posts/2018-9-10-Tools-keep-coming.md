@@ -24,4 +24,4 @@ Now located in the bus we also have the tools that were donated in 2017 includin
  - 100W soldering/cutting gun
  + several small items
 
-![_config.yml]({{ site.baseurl }}/images/tools1.png)
+![_config.yml]({{ site.baseurl }}/images/tools1.jpg)
