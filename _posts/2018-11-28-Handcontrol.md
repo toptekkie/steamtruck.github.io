@@ -1,5 +1,5 @@
 ---
-youtubeId: 30vgXEuDsmw
+youtubeId: wOUJf9RiM50
 layout: post
 title:  Hand Control for the Chamber of Commerce Xmas Train.
 excerpt_separator: <!--more-->
@@ -14,5 +14,7 @@ season here in Salmo
 The control is now at the model train exhibit at Waneta Mall - June 2019
 
 ![_config.yml]({{ site.baseurl }}/images/train1.jpg)
+
+Watch the video below
 
 {% include youtubePlayer.html id=page.youtubeId %}
