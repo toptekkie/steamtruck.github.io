@@ -4,11 +4,10 @@ title:  2019 SE BC Road-trip.
 excerpt_separator: <!--more-->
 ---
 
-#### theSTEAMtruck is back on the road for another great Road-trip
+#### theSTEAMtruck is back on the road for another great roadtrip
 
 Mark your diaries and calendars for the date when we will be nearest your town in the Kootenays.
 
 Our latest schedule and route is shown below:
 
 ![_config.yml]({{ site.baseurl }}/images/2019route.jpg)
-
