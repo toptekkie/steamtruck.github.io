@@ -15,6 +15,4 @@ The control is now at the model train exhibit at Waneta Mall - June 2019
 
 ![_config.yml]({{ site.baseurl }}/images/train1.jpg)
 
-# Embed Youtube
-
 {% include youtubePlayer.html id=page.youtubeId %}
