@@ -7,8 +7,8 @@ excerpt_separator: <!--more-->
 #### What I Fixed Today (WIFT#1)
 
 The start of something new.
-Becoming known as the Mr Fixit - seldon a day goes by without having to rack my 
-brain and innovate a new solution to put something ack into operation.
+Becoming known as the Mr Fixit - seldom a day goes by without having to rack my 
+brain and innovate a new solution to put something back into operation.
 
 In this inaugural post we have a cool zoomable LED flashlight.
 
