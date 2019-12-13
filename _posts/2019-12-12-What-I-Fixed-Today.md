@@ -17,7 +17,7 @@ In this inaugural post we have a cool zoomable LED flashlight.
 When received it arrived with a loose switch assembly, a spring and besides the 
 flashlight body and battery holder not much else.
 
-Bsiclly it did not work!
+Basiclly it did not work!
 
 First - manufactured a small 4mm dia x 5mm aluminium tube inside the spring loaded
 switch activtor.
