@@ -17,5 +17,5 @@ Elementary software programming
 
 Drilling and mechanical assembly of the units.
 
-![_config.yml]({{ site.baseurl }}/images/instabeat.png)
+![_config.yml]({{ site.baseurl }}/images/instabeat.jpg)
 
