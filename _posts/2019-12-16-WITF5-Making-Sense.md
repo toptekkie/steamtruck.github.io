@@ -18,7 +18,7 @@ Sounds then included:
 Organics = Cow mooing; Glass = Smashing glass sound; Paper = Crunching paper sound etc.
 
 Then came Halloween and the sensors were placed at various spots around a Haunted House 
-with suitable (well lets say scary!) sound effects. Two years running and this is a hit/
+with suitable (well lets say scary!) sound effects. Two years running and this is a hit
 
 In earlier 2018 I created a stand-alone sensor to trigger a 1 minute timer and switch 
 a remote relay to control the Xmas train in the Salmo and District Chamber of Commerce 
@@ -34,7 +34,7 @@ to activate the toy on picking it up.
 These amazing evaluation devices come in a pack and although I only wanted 2 I ordered 2 packs 
 only to find they ship 3 in each pack so its about time to find other uses for these.
 
-Well they beat I/R, Ultrasound and most other sensors I have found hands-down! 
+Well they beat I/R, Ultrasound and most other sensors I have found hands-down
 
 They have integrated seperate Touch and Proximity outputs and include tell-tale smd LEDs 
 on board.
