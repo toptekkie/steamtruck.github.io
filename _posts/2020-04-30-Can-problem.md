@@ -15,7 +15,7 @@ Challenge No. 1
 ![_config.yml]({{ site.baseurl }}/images/Rustycans.jpg)
 
 Your task is to put on your thinking cap and suggest a process, alternative use or 
-method that can avoid steel metal objects from cluttering up and rusting away in our landfills.
+method that can avoid THESE steel metal objects from cluttering up and rusting away in our landfills.
 Aluminium can be recycled and so can (pun intended) steel even with tin plating and plastic 
 lining for protecting foodstuff.
 Sadly much ot this is not recycled - so what can you think of to resolve this.
