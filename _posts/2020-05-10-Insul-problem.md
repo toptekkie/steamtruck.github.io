@@ -9,7 +9,9 @@ excerpt_separator: <!--more-->
 theSTEAMtruck is launching this series of challenges to incentivize out-of-the-box
 thinking for solutions to the problem in an effort to find practical, clever
 and innovative ways as a Race to SaVe our Planet.
+
 Challenge No. 2
+
 ![_config.yml]({{ site.baseurl }}/images/Freezersml.jpg)
 
 Every day many fridges and freezers DIE because the heat exchange cooling pipes are NOT made of corrosion proof metals. The one in the picture had rusted steel pipes.
