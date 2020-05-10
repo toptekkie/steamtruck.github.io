@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  RSVP number 2 CAN you solve this challenge
+title:  RSVP number 2 - can you solve this challenge?
 excerpt_separator: <!--more-->
 ---
 
