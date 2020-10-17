@@ -33,11 +33,8 @@ Emigrated from South Africa to Canada in 1998 to settle with family in Vancouver
 
 
 PERSONAL QUOTE:
-
 “If you dont know where your’e going you never get there”
-### Whats in a name?
 
-[info@toptekkies.com](mailto:info@toptekkies.com)
 
 
 
