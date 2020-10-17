@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: TheSTEAMtruck
+name: Toptekkies
 
 # Short bio or description (displayed in the header)
-description: S.T.E.A.M. Tech Classroom on wheels
+description: Taking Ideas from Concept to Production
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/Color_Logo_Apr_18.png
@@ -19,7 +19,7 @@ avatar: /images/Color_Logo_Apr_18.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: theSTEAMtruck@gmail.com
+  email: info@toptekkies.com
   facebook:
   flickr:
   github: 
@@ -35,14 +35,14 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: steam-truck
+disqus: 
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://steamtruck.github.io
+url: http://toptekkies.com
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
