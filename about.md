@@ -32,8 +32,6 @@ Sixteen years business management experience in directing own electronics indust
 Emigrated from South Africa to Canada in 1998 to settle with family in Vancouver BC. Currently self-employed as engineering consultant/developer as well as Elected Municipal Councillor
 
 
-PERSONAL QUOTE:
-“If you dont know where your’e going you never get there”
 
 
 
