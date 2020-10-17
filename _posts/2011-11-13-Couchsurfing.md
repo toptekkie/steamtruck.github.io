@@ -4,7 +4,7 @@ title: WHAT’S HAS COUCH SURFING TO DO WITH HAMS!
 excerpt_separator: <!--more-->
 ---
 
-![_config.yml]({{ site.baseurl }}/images/couchsufing.png)
+![_config.yml]({{ site.baseurl }}/images/couchsufing1.png)
 
 #### WHATS THIS GOT TO DO WITH COUCH SURFING?
 
@@ -18,7 +18,8 @@ Fast forward to today with me now known in this community as VA7FSE and now also
 
 But only of late have I discovered the world of face-to-face-book in the form of Couch Surfing. Here a open and transparent meeting place exists where one not only shares conversations, greetings and friendly chat, but you actually get to MEET your CS’ers for REAL.
 
-![_config.yml]({{ site.baseurl }}/images/droppedimage.jpg)
+![_config.yml]({{ site.baseurl }}/images/ham1.jpg)
 
 No more hiding, ducking or pretending to be who or what you are but a true and honest sharing of ideas, thoughts and facilities with one another. Couch Surfing has become to me a great meeting, networking and rewarding activity by being able to share accommodation, local information and knowledge of world issues from people who all embrace the notion of one planet and one people.
+
 
