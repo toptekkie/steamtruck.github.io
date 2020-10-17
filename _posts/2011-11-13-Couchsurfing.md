@@ -4,7 +4,7 @@ title: WHAT’S HAS COUCH SURFING TO DO WITH HAMS!
 excerpt_separator: <!--more-->
 ---
 
-![_config.yml]({{ site.baseurl }}/images/couchsufing1.png)
+![_config.yml]({{ site.baseurl }}/images/couchsurfing1.png)
 
 #### WHATS THIS GOT TO DO WITH COUCH SURFING?
 
